@@ -11,7 +11,7 @@ CDAD-UH - 1044Q Human Centered Data Science | Fall 2021 | Final Project
 
    Code for API usage is in the notebook `Data/Bechdel_api.ipynb`.
 
-   I have also put this dataset on [Kaggle](https://www.kaggle.com/alisonyao/movie-bechdel-test-scores).
+   Detailed explanation and active discussion about this dataset can be found on [Kaggle](https://www.kaggle.com/alisonyao/movie-bechdel-test-scores).
 
 2. [Crew & Cast Gender data](https://www.kaggle.com/rounakbanik/the-movies-dataset?select=credits.csv) from Kaggle:
 
