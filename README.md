@@ -29,6 +29,8 @@ Alison Yao, Fatima Nadeem, Min Jie Kim, Jun Bin Ho
 
 - `Bechdel_analysis.ipynb` analyzes and visualizes the Bechdel_detailed.csv data.
 
+  ![pieChart](./bechdel.gif "pieChart")
+
 ### Data-related
 
 - `Data/Bechdel_api.ipynb` shows you how to use the API to fetch data from https://bechdeltest.com/.
