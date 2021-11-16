@@ -2,7 +2,7 @@
 
 CDAD-UH - 1044Q Human Centered Data Science | Fall 2021 | Final Project
 
-Alison Yao, Fatima Nadeem, Min Jie Kim, Jun Bin Ho
+Alison Yao (yy2564), Fatima Nadeem (fn2093), Min Jie Kim (mjk9913), Jun Bin Ho (jbh439)
 
 ## Description
 
