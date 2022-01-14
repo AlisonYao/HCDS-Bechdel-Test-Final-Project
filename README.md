@@ -53,4 +53,6 @@ Encountering such mixed reviews of the Bechdel Test, we wanted to design our res
 
 Since a large proportion of crew members have their gender labeled unknown in the original Kaggle dataset, I used a **gender prediction package** called [gender-guesser](https://pypi.org/project/gender-guesser/) to predict the unknowns.
 
-<!-- ## Blog -->
+## Blog
+
+Please check out [this Medium blog](https://towardsdatascience.com/bechdel-test-comparing-female-representation-metrics-in-movies-6cbade15010f) for a detailed explination of the project.
