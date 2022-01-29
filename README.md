@@ -55,4 +55,4 @@ Since a large proportion of crew members have their gender labeled unknown in th
 
 ## Blog
 
-Please check out [this Medium blog](https://towardsdatascience.com/bechdel-test-comparing-female-representation-metrics-in-movies-6cbade15010f) for a detailed explination of the project.
+Please check out [this Medium blog](https://towardsdatascience.com/bechdel-test-comparing-female-representation-metrics-in-movies-6cbade15010f) for a detailed explanation of the project.
